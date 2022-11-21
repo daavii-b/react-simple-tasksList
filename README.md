@@ -1,2 +1,5 @@
 # react-simple-tasksList
-Simple Tasks List with React and MongoDB
+
+- Simple Tasks List with React and MongoDB
+
+
